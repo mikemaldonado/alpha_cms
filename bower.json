@@ -1,0 +1,19 @@
+{
+  "name": "alpha_cms",
+  "authors": [
+    "Mike <mikejon0829@gmail.com>"
+  ],
+  "description": "CMS template design",
+  "main": "",
+  "keywords": [
+    "cms",
+    "template",
+    "design"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "devDependencies": {
+    "bootswatch-sass": "^3.3.1",
+    "font-awesome": "^4.7.0"
+  }
+}
